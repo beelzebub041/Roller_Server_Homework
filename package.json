@@ -1,0 +1,28 @@
+{
+  "name": "Roller_Server_Homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "redis": "^2.8.0",
+    "save": "^2.4.0",
+    "websocket": "^1.0.28"
+  },
+  "devDependencies": {
+    "javascript-state-machine": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.git.xsg/jhz00401.chchung/Roller_Server_Homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
